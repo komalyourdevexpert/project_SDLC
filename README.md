@@ -5,8 +5,9 @@
 Run the below commands one by one in your terminal or cmd.
 
 ```
-git clone git@github.com:github.com/casen-connect.git
-cd casen-connect
+git clone git@github.com:github.com/project_SDLC.git
+
+cd project_SDLC
 git checkout develop
 composer install
 cp .env.example .env
